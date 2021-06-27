@@ -1,0 +1,85 @@
+{// terminal customization
+  "workbench.colorCustomizations": {
+    "terminal.background": "#1bbff6",
+    "terminal.foreground": "#e08c16",
+    "terminalCursor.background": "#00ff0d",
+    "terminalCursor.foreground": "#00ff22",
+    "terminal.ansiBlack": "#131414",
+    "terminal.ansiBlue": "#0bccf3",
+    "terminal.ansiBrightBlack": "#b8957a",
+    "terminal.ansiBrightBlue": "#6fd9ee",
+    "terminal.ansiBrightCyan": "#878a89",
+    "terminal.ansiBrightGreen": "#00ffbf",
+    "terminal.ansiBrightMagenta": "#ff059f",
+    "terminal.ansiBrightRed": "#fa2408",
+    "terminal.ansiBrightWhite": "#0105ff",
+    "terminal.ansiBrightYellow": "#0062ff",
+    "terminal.ansiCyan": "#0017eb",
+    "terminal.ansiGreen": "#e100ff",
+    "terminal.ansiMagenta": "#154f5d",
+    "terminal.ansiRed": "#d9ff00",
+    "terminal.ansiWhite": "#A89984",
+    "terminal.ansiYellow": "#FAC03B"
+  },
+  //  THEME DEFOULD CODE
+  "emmet.triggerExpansionOnTab": true,
+  "editor.minimap.enabled": true,
+  "breadcrumbs.enabled": true,
+  "editor.renderWhitespace": "all",
+  "editor.renderControlCharacters": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontSize": 14,
+  "editor.wordWrap": "wordWrapColumn",
+  "diffEditor.wordWrap": "on",
+  "editor.wordWrapColumn": 100,
+
+  // EDITOR CODE ITALIC COUSTOM CODE MY
+  "editor.fontLigatures": true,
+  // "editor.fontFamily": "Cursive,Monospace",
+  "editor.fontWeight": "300",
+  //    FONT NAME
+  //    Operator Mono
+  // 'Fira Code',monospace
+  // 'Lobster', cursive
+  // monospace
+  // BACKGROUND IMAGES CODE
+  "background.enabled": true,
+  "background.useDefault": false,
+  "background.useFront": false,
+  "background.style": {
+    "content": "''",
+    "pointer-events": "none",
+    "position": "absolute",
+    "z-index": "99999",
+    "width": "100%",
+    "height": "100%",
+    "margin-left": "10%",
+    "background-position": "center",
+    "background-size": "cover",
+    "background-repeat": "no-repeat",
+    "opacity": 8
+  },
+  "background.customImages": ["E:/vsCod2.png"],
+  "window.titleBarStyle": "native",
+  "window.doubleClickIconToClose": true,
+  "window.menuBarVisibility": "compact",
+  "editor.suggest.showStatusBar": true,
+  "background.loop": true,
+  // "workbench.colorTheme": "Red",
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorSurroundingLines": 2,
+  "editor.cursorWidth": 2,
+  "window.zoomLevel": 2,
+  "editor.hover.delay": 200,
+  "editor.minimap.side": "left",
+  "editor.mouseWheelScrollSensitivity": 2,
+  "editor.mouseWheelZoom": true,
+  "editor.quickSuggestionsDelay": 7,
+  "workbench.colorTheme": "Tomorrow Night Blue",
+  "quokka.compactMessageOutput": true,
+  "quokka.automaticRestart": false,
+  "terminal.integrated.tabs.enabled": true
+}
+// Abyss
